@@ -1,0 +1,13 @@
+body { 
+    background-color: grey;
+}
+
+h1{
+    font-family: "Camria", sans-serif;
+
+}
+
+.Ingredients{
+    text-align: center;
+    color: orange;
+}
