@@ -1,13 +1,30 @@
 body { 
-    background-color: grey;
+    background-color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
 }
 
 h1{
     font-family: "Camria", sans-serif;
+}
 
+p{
+    font-style: italic;
 }
 
 .Ingredients{
     text-align: center;
     color: orange;
+}
+
+  div{
+    display: inline;
+}
+
+li{
+    display:inline-block;
+}
+
+img{
+    display:block;
 }
